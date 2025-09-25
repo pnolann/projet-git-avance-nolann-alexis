@@ -2,9 +2,9 @@ package projetgitavancenolannalexis
 
 import "fmt"
 
-// write 10 times the text 
+// write 1000 times the text for more fun
 func Nolann (){
-	for i := 0 ; i < 10 ; i++ {
+	for i := 0 ; i < 1000 ; i++ {
 		fmt.Println("Nolann le GOAT")
 	}
 }
